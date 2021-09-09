@@ -50,7 +50,7 @@ Users should be able to:
 
 - Website - [Chen Brin](https://github.com/chanenbrin)
 - Frontend Mentor - [@ChenBE9494](https://www.frontendmentor.io/profile/ChenBE9494)
-- Instagram - [@chnncltbrn] (https://www.instagram.com/chnncltbrn)
+- Twitter - [@brincltcha] (https://twitter.com/brincltcha)
 
 
 ## Acknowledgments
